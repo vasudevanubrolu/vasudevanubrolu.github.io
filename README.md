@@ -1,3 +1,3 @@
 # vasudevanubrolu.github.io
 
-git hub pages ML blog
+github pages ML blog
